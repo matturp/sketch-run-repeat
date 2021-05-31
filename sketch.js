@@ -5,7 +5,7 @@ var xoff2 = 50000;
 
 
 function preload(){
-  vid = createVideo('assets/Visual Essay v5_1.mp4');
+  vid = createVideo('assets/Visual Essay v6_3.mp4');
   vid.loop();
   //vid.size(852,480);
   vid.size(windowWidth/1.5,windowWidth/1.5*0.5625);
